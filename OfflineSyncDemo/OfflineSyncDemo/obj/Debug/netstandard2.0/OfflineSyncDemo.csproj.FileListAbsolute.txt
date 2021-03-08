@@ -1,0 +1,16 @@
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\bin\Debug\netstandard2.0\OfflineSyncDemo.deps.json
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\bin\Debug\netstandard2.0\OfflineSyncDemo.dll
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\bin\Debug\netstandard2.0\ref\OfflineSyncDemo.dll
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\bin\Debug\netstandard2.0\OfflineSyncDemo.pdb
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.AssemblyInfoInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.AssemblyInfo.cs
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.dll
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\ref\OfflineSyncDemo.dll
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.pdb
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\Views\AddStudentsView.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\Views\CustomNavigationPage.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\Views\StudentsListView.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\OfflineSyncDemo\OfflineSyncDemo\OfflineSyncDemo\obj\Debug\netstandard2.0\OfflineSyncDemo.csprojAssemblyReference.cache

@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.Android\\OfflineSyncDemo.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.Android\\OfflineSyncDemo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.Android\\OfflineSyncDemo.Android.csproj",
+        "projectName": "OfflineSyncDemo.Android",
+        "projectPath": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.Android\\OfflineSyncDemo.Android.csproj",
+        "packagesPath": "C:\\Users\\1027539\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1027539\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jdasoftware.jfrog.io/jdasoftware/api/nuget/nuget-release": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.csproj": {
+                "projectPath": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1451, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.0-beta, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.csproj",
+        "projectName": "OfflineSyncDemo",
+        "projectPath": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo.csproj",
+        "packagesPath": "C:\\Users\\1027539\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1027539\\Documents\\Coding\\Xamarin\\OfflineSyncDemo\\OfflineSyncDemo\\OfflineSyncDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1027539\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://jdasoftware.jfrog.io/jdasoftware/api/nuget/nuget-release": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1451, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.0-beta, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
